@@ -1,4 +1,4 @@
-package com.controller;
+package com.view;
 
 import com.repository.UserRepo;
 import com.vaadin.flow.component.Component;

@@ -1,0 +1,2 @@
+insert into car(id, car_type, fuel, imgeurl, model, price, rent, year_production, user_id)
+ values();

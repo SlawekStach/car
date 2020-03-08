@@ -1,4 +1,4 @@
-package com.controller;
+package com.view;
 
 import com.repository.CarRepo;
 import com.vaadin.flow.component.applayout.AppLayoutMenuItem;
